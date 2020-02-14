@@ -9,6 +9,9 @@
 # testing
 /coverage
 
+#tanspiled files
+/server
+/dist
 # production
 /build
 
